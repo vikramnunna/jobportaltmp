@@ -2,7 +2,7 @@ import axios from "axios";
 
 // export const serverUrl = "http://16.171.151.173/api";
 //export const serverUrl = "http://localhost:80/api";
- export const serverUrl = "https://backend2-gzlx.onrender.com:80/api";
+ export const serverUrl = "https://backend2-gzlx.onrender.com/api";
 
 export const imageUrl = "https://raadharani.s3.ap-south-1.amazonaws.com/";
 
